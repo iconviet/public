@@ -1,28 +1,22 @@
-{
-	"representative": {
-		"logo": {
-			"logo_svg": "https://iconviet.io/iconviet.svg",
-			"logo_256": "https://iconviet.io/iconviet-256.png",
-			"logo_1024": "https://iconviet.io/iconviet-1024.png"
-		},
-		"media": {
-			"steemit": "",
-			"twitter": "https://twitter.com/iconviet",
-			"youtube": "",
-			"facebook": "",
-			"github": "https://github.com/iconviet",
-			"reddit": "",
-			"keybase": "",
-			"telegram": "@iconviet",
-			"wechat": ""
-		}
-	},
-	"server": {
-		"location": {
-			"country": "VNM",
-			"city": "Ho Chi Minh"
-		},
-		"server_type": "cloud",
-		"api_endpoint": "http://nodeprep.iconviet.io:9000"
-	}
+{  
+   "server":{  
+      "location":{  
+         "country":"VNM",
+         "city":"Ho Chi Minh"
+      },
+      "server_type":"cloud",
+      "api_endpoint":"https://nodeprep.iconviet.io"
+   },
+   "media":{  
+      "telegram":"@iconviet",
+      "github":"https://github.com/iconviet",
+      "twitter":"https://twitter.com/iconviet"
+   },
+   "representative":{  
+      "logo":{  
+         "logo_svg":"https://raw.githubusercontent.com/iconviet/nodeprep/master/iconviet.svg",
+         "logo_256":"https://raw.githubusercontent.com/iconviet/nodeprep/master/iconviet-256.png",
+         "logo_1024":"https://raw.githubusercontent.com/iconviet/nodeprep/master/iconviet-1024.png"
+      }
+   }
 }
