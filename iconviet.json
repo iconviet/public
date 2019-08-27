@@ -1,4 +1,9 @@
 {  
+   "media":{  
+      "telegram":"@iconviet",
+      "github":"https://github.com/iconviet",
+      "twitter":"https://twitter.com/iconviet"
+   },
    "server":{  
       "location":{  
          "country":"VNM",
@@ -6,11 +11,6 @@
       },
       "server_type":"cloud",
       "api_endpoint":"https://nodeprep.iconviet.io"
-   },
-   "media":{  
-      "telegram":"@iconviet",
-      "github":"https://github.com/iconviet",
-      "twitter":"https://twitter.com/iconviet"
    },
    "representative":{  
       "logo":{  
