@@ -10,8 +10,7 @@
          "city":"Ho Chi Minh"
       },
       "server_type":"cloud",
-      // "api_endpoint":"https://nodeprep.iconviet.io"
-      "api_endpoint":"http://ctz.piconbello.com" // borrow until 24 Sep, thanks!
+      "api_endpoint":"http://ctz.piconbello.com"
    },
    "representative":{  
       "logo":{  
