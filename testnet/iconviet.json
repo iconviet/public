@@ -1,0 +1,22 @@
+{  
+   "media":{  
+      "telegram":"@iconviet",
+      "github":"https://github.com/iconviet",
+      "twitter":"https://twitter.com/iconviet"
+   },
+   "server":{  
+      "location":{  
+         "country":"VNM",
+         "city":"Ho Chi Minh"
+      },
+      "server_type":"cloud",
+      "api_endpoint":"http://ctz.piconbello.com"
+   },
+   "representative":{  
+      "logo":{  
+         "logo_svg":"https://raw.githubusercontent.com/iconviet/nodeprep/master/iconviet.svg",
+         "logo_256":"https://raw.githubusercontent.com/iconviet/nodeprep/master/iconviet-256.png",
+         "logo_1024":"https://raw.githubusercontent.com/iconviet/nodeprep/master/iconviet-1024.png"
+      }
+   }
+}
