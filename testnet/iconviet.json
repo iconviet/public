@@ -14,9 +14,9 @@
    },
    "representative":{  
       "logo":{  
-         "logo_svg":"https://raw.githubusercontent.com/iconviet/nodeprep/master/iconviet.svg",
-         "logo_256":"https://raw.githubusercontent.com/iconviet/nodeprep/master/iconviet-256.png",
-         "logo_1024":"https://raw.githubusercontent.com/iconviet/nodeprep/master/iconviet-1024.png"
+         "logo_svg":"https://raw.githubusercontent.com/iconviet/nodeprep/master/testnet/iconviet.svg",
+         "logo_256":"https://raw.githubusercontent.com/iconviet/nodeprep/master/testnet/iconviet-256.png",
+         "logo_1024":"https://raw.githubusercontent.com/iconviet/nodeprep/master/testnet/iconviet-1024.png"
       }
    }
 }
