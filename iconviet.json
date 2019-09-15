@@ -10,7 +10,7 @@
          "city":"Ho Chi Minh"
       },
       "server_type":"cloud",
-      "api_endpoint":"http://prep.iconviet.io:9000"
+      "api_endpoint":"http://iconviet-prep.trafficmanager.net:9000"
    },
    "representative":{  
       "logo":{  
