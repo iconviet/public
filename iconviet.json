@@ -14,9 +14,9 @@
    },
    "representative":{  
       "logo":{  
-         "logo_svg":"https://raw.githubusercontent.com/iconviet/prep/master/mainnet/iconviet.svg",
-         "logo_256":"https://raw.githubusercontent.com/iconviet/prep/master/mainnet/iconviet-256.png",
-         "logo_1024":"https://raw.githubusercontent.com/iconviet/prep/master/mainnet/iconviet-1024.png"
+         "logo_svg":"https://raw.githubusercontent.com/iconviet/prep/master/iconviet.svg",
+         "logo_256":"https://raw.githubusercontent.com/iconviet/prep/master/iconviet-256.png",
+         "logo_1024":"https://raw.githubusercontent.com/iconviet/prep/master/iconviet-1024.png"
       }
    }
 }
